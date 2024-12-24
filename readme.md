@@ -93,7 +93,7 @@ The simulator provides comprehensive output, including:
 
 ## 📝 Example Input and Output
 
-For a detailed example of input and output, follow this [link](https://github.com/shivadarshan-devadiga/DIRECT-MAPPED-CACHE-USING-C/example.md).
+For a detailed example of input and output, follow this [link](example.md).
 
 ---
 
